@@ -1,0 +1,68 @@
+.topnav
+{
+	background-color: #404040;
+	text-align: center;
+	padding: 25px;
+
+} 
+.topnav a
+{
+	color: #f2f2f2;
+	font-size: 30px;
+	padding: 22px;
+	text-align: center;
+
+}
+.bg-1 img
+{
+	width: 1350px;
+	height: 500px;
+	position: relative;
+
+}
+.bg-1 span
+{
+	position: absolute;
+	top: 300px;
+	left: 500px;
+	font-size: 75px;
+	color: white;
+}
+.bg-1 p
+{
+	position: absolute;
+	top: 380px;
+	left: 550px;
+	font-size: 25px;
+	color: white;	
+}
+.row
+{
+	padding-top: 45px;
+	padding-left: 75PX;
+}
+
+.bg-2 img
+{
+	width: 1350px;
+	height: 300px;
+	position: relative;
+
+}
+.bg-2 span
+{
+	position: absolute;
+	top: 1620px;
+	left: 600px;
+	font-size: 35px;
+	color: white;
+}
+.bg-2 p
+{
+	position: absolute;
+	top: 1680px;
+	left: 400px;
+	font-size: 20px;
+	color: white;
+	text-align: center;	
+}
