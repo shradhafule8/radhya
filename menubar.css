@@ -66,3 +66,14 @@
 	color: white;
 	text-align: center;	
 }
+@media screen and (max-width:1920px)
+	{
+	.bg-1 img
+	{
+	width: 100%;
+	}
+	.topnav 
+	{
+	width: 100%;
+	} 
+	}
