@@ -1,4 +1,4 @@
-.topnav
+.container
 {
 	background-color: #404040;
 	text-align: center;
@@ -72,7 +72,7 @@
 	{
 	width: 100%;
 	}
-	.topnav 
+	.container
 	{
 	width: 100%;
 	} 
